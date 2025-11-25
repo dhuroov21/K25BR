@@ -1,0 +1,245 @@
+*{
+    margin:0%;
+    padding: 0%;
+    font-family: arial;
+}
+.navbar{
+    height:60px;
+    background-color: #131A22;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+    
+    
+.log{
+    height:50px;
+    width:120px;
+}
+
+.logo{
+    background-image: url("amazon_logo.png");
+    background-size: cover;
+    height:50px;
+    width:110px;
+}
+
+.border{
+    border:2px solid transparent;
+}
+
+.border:hover{
+    border:2px solid white;
+}
+
+.add{
+    color: white;
+    
+}
+.loc{
+    display: flex;
+}
+pre{
+    font-size: small;
+    color:white;
+}
+.all{
+    height:40px;
+    width:50px;
+    text-align: center;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+
+    
+}
+.search{
+    text-align: center;
+}
+.searchbar{
+    display:flex;
+    
+}
+.sic{
+    background-color: rgba(245, 198, 56, 0.916);
+    width:45px;
+    text-align: center;
+    align-content: center;
+    height:40px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+}
+input{
+    height:37px;
+    width:600px;
+}
+.acc{
+    color:white;
+}
+.ord{
+    color:white;
+    
+}
+.car{
+    color:white;
+    display:flex;
+}
+.car i{
+    font-size:30px;
+}
+.cart{
+    align-self: end;
+}
+.border2:hover{
+    border:2px solid rgba(245, 198, 56, 0.916);
+}
+.nav2{
+    height:40px;
+    color:white;
+    background-color: #232F3E;
+    display: flex;
+    align-items:center;
+}
+.all2{
+    display:flex;
+    padding-left:60px;
+    margin-right:20px;
+}
+.item{
+    
+    display:flex;
+    justify-content: space-between;
+    width:600px;
+}
+.nav3{
+    height:400px;
+    background-image:url("hero_image.jpg");
+    background-size: cover;
+    display: flex;
+    align-items: end;
+}
+.clic{
+    background-color:white;
+    height:40px;
+    display:flex;
+    width:100%;
+    margin-left: 40px;
+    margin-right: 40px;
+    align-items: center;
+    justify-content: center;
+    margin-bottom:20px;
+}
+.shop{
+     display:flex;
+     justify-content: space-evenly;
+     background-color: #e2e7e6;
+     flex-wrap: wrap;
+}
+.box{
+    /* border:2px solid black; */
+    height:400px;
+    width:23%;
+    padding:20px 0px 15px;
+    background-color: white;
+    margin-top: 15px;
+
+}
+.clot{
+    background-image: url("box1_image.jpg");
+    background-size: cover;
+    height:300px;
+    
+   
+}
+.cont{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.clot2{
+    background-image: url("box2_image.jpg");
+    background-size: cover;
+    height:300px;
+}
+.clot3{
+    background-image: url("box3_image.jpg");
+    background-size: cover;
+    height:300px;
+}
+.clot4{
+    background-image: url("box4_image.jpg");
+    background-size: cover;
+    height:300px;
+}
+.clot5{
+    background-image: url("box5_image.jpg");
+    background-size: cover;
+    height:300px;
+}
+.clot6{
+    background-image: url("box6_image.jpg");
+    background-size: cover;
+    height:300px;
+}
+.clot7{
+    background-image: url("box7_image.jpg");
+    background-size: cover;
+    height:300px;
+}
+.clot8{
+    background-image: url("box8_image.jpg");
+    background-size: cover;
+    height:300px;
+}
+.footpanel{
+    height:50px;
+    background-color: #37475A;
+    color:white;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.panel2{
+    color:white;
+    height:300px;
+    background-color: #222F3D;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+u{
+    text-decoration: none;
+    margin-top: 30px;
+    
+}
+a{
+    display:block;
+    margin:5px;
+}
+.pra{
+    font-weight: 700;
+}
+.panel3{
+    height:60px;
+    background-color:#222F3D;
+    display: flex;
+    justify-content: center;
+}
+.logo22{
+    background-image: url(amazon_logo.png);
+    background-size: cover;
+    height:70px;
+    width:120px;
+    
+}
+.panel4{
+    height:60px;
+    background-color:#131A22;
+    display: block;
+    text-align: center;
+    color:white;
+    font-size: 0.8rem;
+    
+    
+}
+.pad{
+    padding-top:10px;
+}
